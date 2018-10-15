@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>index</key>
+		<integer>1</integer>
+		<key>question</key>
+		<string>Can I report a problem in my city?</string>
+		<key>answer</key>
+		<string>Yes, you can send reports to any city or institution. If your city or institution is registered in the platform,  the city official will provide you with a direct feedback. If they aren’t registered, your report will be legally formed and sent to the institution responsible for fixing the problem. Any institution can start using the “Citizens” platform and thus remove bureaucracy and increase the transparency and productivity.</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>2</integer>
+		<key>question</key>
+		<string>My report isn’t related to any of the given categories. May I report another signal for …?</string>
+		<key>answer</key>
+		<string>Yes, you can send reports for any problem is your city, no matter whether it is part of the preselected categories. Simply select “Other signal”</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>3</integer>
+		<key>question</key>
+		<string>How to shoot the problem in a correct way in order the report to be valid?</string>
+		<key>answer</key>
+		<string>The pictures must show clearly what the problem is. The more the pictures, the clearer the report. The clearer the report, the faster the solution will come. In the platform, you can upload up to 5 pictures, also you can upload videos from your phone’s camera or add links to YouTube (only in the web portal) When you report traffic violations, the most important thing is the license plate to and the violation to be clearly visible. The best case is to have a panoramic picture, and one closer to the car in order the violation, the place and the license plate to be visible.</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>4</integer>
+		<key>question</key>
+		<string>How is the “Citizens” app funded?</string>
+		<key>answer</key>
+		<string>We’ve financed the entire platform by ourselves during the first two years.
+            Fleet monitoring
+            Based on the many reports of company cars shot in a violation, we created the car monitoring service. The companies are using it for internal control on their drivers’ behavior on the road. A company can upload or provide us with the license plates of its vehicles. If someone takes a picture of one of those cars in violation, an email and push notification is sent to a selected representative of the company. This is a business service that directly improves the drivers’ behavior on the road and thus betters our society.
+            Insurance companies
+            The signals in “Citizens”can serve as a benchmark on how risky is a certain driver. There are cars in the platform, that have been reported 10 or more times for traffic violations, which clearly indicates that these drivers are riskier than normal. When the insurance companies have such an information they can refuse or offer a higher price to such riskier drivers. “Citizens” provides a risk management tool that can provide to the insurers the info needed for determining the right premiums.
+            Software-as-a-Service (SaaS) за Общини и други институции/ SaaS for municipalities and institutions
+            After working closely with institutions for the last 2 years, we’ve noticed the following problems - sometimes it takes more than a month for a certain report to reach the person responsible. The report passes through different systems and departments, there’s a lot of paperwork and parcel services are used. Additionally, during the process no one has real time visibility and access to check where is the signal currently and what is its status which leads to high costs and low productivity. Gradually, a solution to these problems was developed. A solution that removes entirely the paperwork. One that provides full transparency and improves tenfold the productivity of the people working with it. The inspectors can update the status of any signal with a single click and can directly communicate with the sender of the report. The mayors and the higher officials can see who is working on what and  how much time is needed for a solution to be provided. Moreover, the mayors can see what are the most frequent problems and thus plan their budgets. Furthermore, this tool provides the institutions with the ability to send targeted push notifications based on location for things like road blockages, power supply shortages, events, etc.</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>5</integer>
+		<key>question</key>
+		<string>How can I register?</string>
+		<key>answer</key>
+		<string>You can register with email or Facebook account.</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>6</integer>
+		<key>question</key>
+		<string>Can I use the platform without a registration</string>
+		<key>answer</key>
+		<string>Yes, but only the web portal and with limited functionality. You can only view the signals. You won’t be able to send reports or support the signals. For the mobile apps, you need to register.</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>7</integer>
+		<key>question</key>
+		<string>How can I send a report to the Traffic Police?</string>
+		<key>answer</key>
+		<string>To do the above you must upload a picture or a video in the platform. Then you have to select the type of violation and choose the option “Send to Traffic Police”. Then you have to either fill additional information or you will receive an email with further instructions.</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>8</integer>
+		<key>question</key>
+		<string>How can I send a signal to my municipality?</string>
+		<key>answer</key>
+		<string>1. Upload up to five pictures or a video of the problem
+            2. Select the type of problem
+            3. Write a concise description
+            4. Select the date
+            5. Add/confirm your data
+            6. Send and then the signal goes to the right municipality</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>9</integer>
+		<key>question</key>
+		<string>What type of reports can I send?</string>
+		<key>answer</key>
+		<string>You can report traffic violations, problems concerning infrastructure, pollution, kids’ playgrounds, parks, buildings and construction works, communal services, public order, social rights, others.</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>10</integer>
+		<key>question</key>
+		<string>What does “Other signal” means?</string>
+		<key>answer</key>
+		<string>“Other signal” is for all those reports that have no predefined categories</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>11</integer>
+		<key>question</key>
+		<string>How can I search in “Citizens”?</string>
+		<key>answer</key>
+		<string>You can use the search option in many ways. There are a number of filters that can be applied such as keyword, license plate number, different statuses and types, mostly viewed or supported, etc.</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>12</integer>
+		<key>question</key>
+		<string>How can I select the address of the place where the report was shot?</string>
+		<key>answer</key>
+		<string>You can select the address by writing it in the address field or by picking it from the map.</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>13</integer>
+		<key>question</key>
+		<string>What happens when the status of my signal is changed?</string>
+		<key>answer</key>
+		<string>If the status of any of your signals is changed, you will be notified in the platform. You can also change the statuses of your signals, even you can mark it as done, if in the meantime the problem is solved</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>14</integer>
+		<key>question</key>
+		<string>May I send a report with video shot via video recorder?</string>
+		<key>answer</key>
+		<string>Yes! You can do it in several ways. If the video recorder has wifi and a video editing app, you can cut the video from there and upload it from your phone’s gallery to the “Citizens” app. You can also upload the video in YouTube and from the web portal you can upload the link.</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>15</integer>
+		<key>question</key>
+		<string>Traffic violations and vehicles” category - what does it mean?</string>
+		<key>answer</key>
+		<string>There are all the violations committed by us with our cars. Examples - illegal parking, aggressive driving, public transport, abandoned car, etc.</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>16</integer>
+		<key>question</key>
+		<string>“Streets and sidewalks” category - what does it mean?</string>
+		<key>answer</key>
+		<string>These are all the problems connected with the infrastructure of our streets and sidewalks - Examples - potholes, damaged sidewalk or street lamps, broken road sign or street light, etc.</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>17</integer>
+		<key>question</key>
+		<string>“Pollution” category - what does it mean?</string>
+		<key>answer</key>
+		<string>These are all the problems connected with pollution. Examples - broken garbage bin, trash, pests, polluted air or water, etc</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>18</integer>
+		<key>question</key>
+		<string>“Parks and kids’ playgrounds” category - what does it mean?</string>
+		<key>answer</key>
+		<string>These are all the problems connected with trash, damaged amenities or trees in the parks or kids’ playgrounds.</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>19</integer>
+		<key>question</key>
+		<string>“Buildings and constructions” category - what does it mean?</string>
+		<key>answer</key>
+		<string>These are all the problems connected to the support of a building or to how a construction is done.</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>20</integer>
+		<key>question</key>
+		<string>“Utility services” category - what does it mean?</string>
+		<key>answer</key>
+		<string>These are all the problems connected with the water supply, electricity or heating</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>21</integer>
+		<key>question</key>
+		<string>“Public order” category - what does it mean?</string>
+		<key>answer</key>
+		<string>These are problems like street aggression, stray dogs, homeless people in danger, violence over animals, graffiti, illegal posters, etc</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>22</integer>
+		<key>question</key>
+		<string>“Civil rights” category  - what does it mean?</string>
+		<key>answer</key>
+		<string>These are problems like police brutality, hooligans, etc</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>23</integer>
+		<key>question</key>
+		<string>“Other” category - what does it mean?</string>
+		<key>answer</key>
+		<string>These are all the problems that haven’t been categorized above</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>24</integer>
+		<key>question</key>
+		<string>How do I know whether I have been reported in the “Citizens’ platform?</string>
+		<key>answer</key>
+		<string>Add your car’s license number in the “Radar” to receive immediate notifications if someone has reported you in violation. If you get notified, use the apology button to send a sincere apology to the person that reported you. If the apology is accepted, the picture is automatically removed</string>
+	</dict>
+	<dict>
+        <key>index</key>
+        <integer>25</integer>
+		<key>question</key>
+		<string>How many pictures can be added in a single report?</string>
+		<key>answer</key>
+		<string>You can upload up to 5 (five) pictures to a single report</string>
+	</dict>
+    <dict>
+        <key>index</key>
+        <integer>26</integer>
+        <key>question</key>
+        <string>Can I shoot and upload a video?</string>
+        <key>answer</key>
+        <string>You can shoot a video through the “Citizens” app. You can also just upload a video from your phone’s gallery. While sending a report, you will stumble upon the option “Video”and from there you can also shoot one. From “Gallery” you can upload an already available video to the signal you send. Additionally, you can add a YouTube link but only in the web portal</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>27</integer>
+        <key>question</key>
+        <string>How can I know whether there is progress on my reports</string>
+        <key>answer</key>
+        <string>You will receive instant push notification or email when the status of any of your reports is updated. Based on the type of the signal you sent, it may take a while for the status to be changed.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>28</integer>
+        <key>question</key>
+        <string>Does violators see any data about me?</string>
+        <key>answer</key>
+        <string>Violators do not see any data about you. However, based on the different jurisdictions, the violator might be able to get some information if the law requires this, but this will be through the local authorities not through the “Citizens” platform. Only the officials using the platform who are responsible for the signals to be solved  see the names and phones of the people that send the reports because sometimes additional information is needed.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>29</integer>
+        <key>question</key>
+        <string>Is it worthed to report a problem that is not in the predefined categories in the platform and for the solution of which, the officials are not using the “Citizens” platform?</string>
+        <key>answer</key>
+        <string>Yes! You can report any type of problems. Even if the problem isn’t directly taken in the platform by the official responsible for fixing it, you are publicly stating that there is something not ok. The media's has given additional publicity to such reports in the platform and several officials were fired due to bad performance. One was the the chief secretary of the ministry of exterior for illegal driver.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>30</integer>
+        <key>question</key>
+        <string>“Profile” - what does it include?</string>
+        <key>answer</key>
+        <string>In your “Profile” you’ll find statistics about your city, your signals, supported signals, your followers and who are you following. Additionally, you’ll find the “Settings” button prom where you can edit your personal data such as profile picture, email, name, phone, city. Also in “Settings” you can add your address and cars’ license numbers to receive push notifications and email if shot in violation or whether there are things happening nearby. Additionally, in the “Profile”page you can find the “Three dots button”and if pressed you can read more about “Citizens” FAQ, Terms of service and the different ranks. Finally, from the “Profile”page you can sign out</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>31</integer>
+        <key>question</key>
+        <string>What is the meaning behind the “Apology Button”?</string>
+        <key>answer</key>
+        <string>We all make mistakes. The “Apology Button” allows the violators to send a sincere apology to the one who reported them. As we state in our mission statement - to promote and empower responsible, proactive and polite citizenship, this button plays its role in the polite part. With this button we promote the positive dialog. If the apology is accepted by the one who shot the violation, the picture is automatically removed. If the apology is not accepted the report stays. If you’ve sent an apology but there is no reaction 48 hours later, please contact us at contacts@citizens.care</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>32</integer>
+        <key>question</key>
+        <string>What happens if you’ve sent your report to the traffic police or other institution and you receive an apology?</string>
+        <key>answer</key>
+        <string>The apology and the report being sent to an institution are two separate things that have no correlation. Many people are writing to us to take back their reports that have already been sent to the penalizing institution after an apology is received. Unfortunately, we can’t stop the penalty once the signal is sent to the officials responsible for issuing a fine.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>33</integer>
+        <key>question</key>
+        <string>How to report inappropriate content in the “Citizens” platform?</string>
+        <key>answer</key>
+        <string>You can report inappropriate content in the platform through the button “Report inappropriate content”. You must add a short and descriptive comment on why you think it is inappropriate.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>34</integer>
+        <key>question</key>
+        <string>How to suggest a responsible party to a signal in the platform?</string>
+        <key>answer</key>
+        <string>To suggest a responsible party to a problem in the platform, first, you have to press the “More Button” in the upper right corner (the three dots). Then you will see a button named “Suggest a party responsible for solving this signal”.  Thus you’ll send an invitation to an institution or other stakeholder to join the “Citizens” platform.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>35</integer>
+        <key>question</key>
+        <string>How to support a signal?</string>
+        <key>answer</key>
+        <string>Use the “Support” button. The more supporters to a certain signal, the higher the priority for the institution responsible for fixing it. Moreover, you will start receiving notifications about the signals you’ve supported.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>36</integer>
+        <key>question</key>
+        <string>How to share signals from the “Citizens” platform to the social media?</string>
+        <key>answer</key>
+        <string>You can share any signal to any social media by pressing the “Share” button. Additionally, you can copy the link of the signal by pressing the “Copy” button under the “Share” button.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>37</integer>
+        <key>question</key>
+        <string>What is the meaning behind the statuses of the signals?</string>
+        <key>answer</key>
+        <string>The statuses show the stage in the process under which any signal is. “Uploaded” means that the signal is in the platform and is public but the party responsible is yet to be found.  “Awaiting for a party responsible” means that there is a party responsible for the signal but the party hasn’t started working on it. “Processing” means that the party responsible is working on the signal. “Solved” - means that the problem has been solved or the violator has been penalized. The status of any signal can be changed to “Solved” either by the party responsible or by the sender.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>38</integer>
+        <key>question</key>
+        <string>How to comment under a signal or how to add additional information?</string>
+        <key>answer</key>
+        <string>If you are the sender of the signal, you can comment either under the signal in the comments section or under the status of the signal.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>39</integer>
+        <key>question</key>
+        <string>How can the signals about traffic violations be removed from the “Citizens”platform?</string>
+        <key>answer</key>
+        <string>The signals can be removed either by you sending an apology which has to be accepted by the sender, or by reporting a signal as inappropriate (of course if there is an obvious reason for this)</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>40</integer>
+        <key>question</key>
+        <string>What can I do if I’ve forgotten my password?</string>
+        <key>answer</key>
+        <string>There is a button called “Forgotten password” on the Log in screen. Press it, add the email with which you’ve registered and an email with instructions will be sent.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>41</integer>
+        <key>question</key>
+        <string>What are the ranks in the “Citizens” platform?</string>
+        <key>answer</key>
+        <string>The more problems you report the more points you get. Based on your points you get different rankings.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>42</integer>
+        <key>question</key>
+        <string>What is “Unassigned report” (only for institutions)?</string>
+        <key>answer</key>
+        <string>Under “Free signals” you will find all the signals which are under your responsibility or in your area.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>43</integer>
+        <key>question</key>
+        <string>How can I process a report (only for institutions)?</string>
+        <key>answer</key>
+        <string>You can see the “+” button on all the”Free” signals. By pressing it you are taking responsibility for the signal and you can start working on it. If not sure, press on the signal and see the additional information. If the signal is in your area of competency, press the |”+” button and you will be able to change its status.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>44</integer>
+        <key>question</key>
+        <string>How to resend the signal to other party responsible (only for institutions)?</string>
+        <key>answer</key>
+        <string>You can send a signal to other party responsible or a colleague by pressing the “Resend” button.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>45</integer>
+        <key>question</key>
+        <string>What does it mean to follow someone in the “Citizens” platform?</string>
+        <key>answer</key>
+        <string>By following a person in the platform, you automatically start receiving info about the signals he/she reports. Furthermore, by the “Follow” button you are encouraging and supporting this active citizen who can see that he/she is not alone. belongs to something bigger than him/herself and is endorsed for his/her deeds.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>46</integer>
+        <key>question</key>
+        <string>What does the “React” button do?</string>
+        <key>answer</key>
+        <string>When you press the “React” button, several emojis will appear. Choose one and share your feelings. The sender of the signal will be notified and for sure this message will serve as additional motivation because the sender will now know that he/she is not alone and the other citizens are not indifferent to his/her strive for a better society.</string>
+    </dict>
+    <dict>
+        <key>index</key>
+        <integer>47</integer>
+        <key>question</key>
+        <string>How can I contact you?</string>
+        <key>answer</key>
+        <string>You can message us at contacts@citizens.care, facebook or twitter.</string>
+    </dict>
+</array>
+</plist>
